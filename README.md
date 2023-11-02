@@ -1,5 +1,6 @@
 # VCS-Benefits
-Question 1 CM1705- Version Control Systems Benefits and Comparison 
+
+Version Control Systems Benefits and Comparison 
 
 Local Version Control systems- Being the first VCS (for example “Revision Control System”) to have been created it was a good starting point for developers to use as it opened doors for what was to come in the future, However, this System comes with its own set of problems in modern times, for a start this system could only be used on one computer, obviously as the world becomes a bigger place, more and more people are relying on applications and programs, teams of developers and programmers have developed into more than just 1 person on their own to a group of people working on projects together with business, working on a LVCS as part of a team this VCS as it was when created has become outdated and prehistoric. While this might be ideal for a very small business with only one developer/programmer working off one computer due to its free CDDL-licenced version as well as being tried and tested since its inception, I don’t feel it holds any benefits for any company replying on more then developer/programmer within their business as projects cannot be collaborated on by more than one member of staff (presuming that each person has their own computer), we also have to be aware that as this program is not on a shared database if something goes wrong as often does in an IT environment there is no way to retrieve data from a shared source.  
 
